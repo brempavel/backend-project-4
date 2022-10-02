@@ -2,3 +2,6 @@
 [![Actions Status](https://github.com/brempavel/backend-project-4/workflows/hexlet-check/badge.svg)](https://github.com/brempavel/backend-project-4/actions)
 <a href="https://codeclimate.com/github/brempavel/backend-project-4/maintainability"><img src="https://api.codeclimate.com/v1/badges/3292f44471c0145490b8/maintainability" /></a>
 <a href="https://codeclimate.com/github/brempavel/backend-project-4/test_coverage"><img src="https://api.codeclimate.com/v1/badges/3292f44471c0145490b8/test_coverage" /></a>
+
+### page-loader:
+<a href="https://asciinema.org/a/3HSBNHyYPcVFc1fuk9bA4wR4T" target="_blank"><img src="https://asciinema.org/a/3HSBNHyYPcVFc1fuk9bA4wR4T.svg" /></a>
