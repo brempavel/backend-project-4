@@ -4,7 +4,7 @@ import path from 'path';
 
 export default (url, directoryPath) => {
   const fileName = url
-    .replaceAll(/(https:\/\/|http:\/\/|\W)/g, '-')
+    .replace(/(https:\/\/|http:\/\/|\W)/g, '-')
     .slice(1)
     .concat('.html');
   const filepath = path.join(directoryPath, fileName);
